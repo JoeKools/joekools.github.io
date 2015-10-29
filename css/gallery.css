@@ -77,30 +77,30 @@ header{
 }
 
 #ifood{
-	width: 135px;
+	width: 125px;
 	height: 100px;
 	float: left;
 	z-index: 50;
 }
 
 #ibooking{
-	width: 210px;
+	width: 255px;
 	height: 100px;
 	float: left;
 	z-index: 50;
 }
 
 #igallery{
-	width: 190px;
+	width: 200px;
 	height: 100px;
-	float: right;
+	float: left;
 	z-index: 50;
 }
 
 #ilocator{
-	width: 200px;
+	width: 120px;
 	height: 100px;
-	float: right;
+	float: left;
 	z-index: 50;
 }
 
